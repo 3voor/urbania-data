@@ -8,3 +8,6 @@
 #folders from macosx
 .DS_Store
 .Rhistory
+
+# constants file
+constants.py
